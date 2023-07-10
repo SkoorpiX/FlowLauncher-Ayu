@@ -75,7 +75,7 @@
         <Setter Property="BorderThickness" Value="2" />
         <Setter Property="BorderBrush" Value="#323b4c" /> <!-- window border color -->
         <Setter Property="CornerRadius" Value="10" />
-        <Setter Property="Background" Value="#232937" /> <!-- window bg color -->
+        <Setter Property="Background" Value="##2B2B2B" /> <!-- window bg color -->
         <Setter Property="UseLayoutRounding" Value="True" />
     </Style>
     <Style
